@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="birth_date">birth_date</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="save_employee">save_employee</string>
+</resources>
